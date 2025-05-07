@@ -1,1 +1,1 @@
-Vue 3 vite + django
+Vue 3 vite for Backuper
