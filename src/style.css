@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-size: 14px;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+.header {
+    color: antiquewhite;
+    background-color: rgb(0, 33, 22);
+}
+
+.footer {
+    color: antiquewhite;
+    background-color: rgb(0, 33, 22);
+}
